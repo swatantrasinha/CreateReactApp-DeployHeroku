@@ -10,7 +10,7 @@ if heroku cli not there then install it : for mac install heroku-cli using comma
 
 heroku login
  Now follow the commands as mentioned :
- 
+
 ----------------
 (when code is in git)
 heroku git:remote -a deploy-create-react-app-2
@@ -23,4 +23,5 @@ once complete click on "Open App" button on top right
 
 Now everytime we make changes to deploy the latest 
 git commit -am "<message>"
+git push (to commit in git repo)
 git push heroku master
