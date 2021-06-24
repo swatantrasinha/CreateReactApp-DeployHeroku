@@ -22,6 +22,6 @@ git push heroku master
 once complete click on "Open App" button on top right
 
 Now everytime we make changes to deploy the latest 
+first commit and push in git using source tree (so that we dont need to change username in terminal) and then 
 git commit -am "<message>"
-git push (to commit in git repo)
 git push heroku master
