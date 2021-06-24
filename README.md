@@ -9,7 +9,8 @@ if heroku cli not there then install it : for mac install heroku-cli using comma
 
 
 heroku login
-
+ Now follow the commands as mentioned :
+ 
 ----------------
 (when code is in git)
 heroku git:remote -a deploy-create-react-app-2
